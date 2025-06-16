@@ -2,6 +2,7 @@
 
 - npm create vite@latest
 - configured TailwindCSS
+- react-router for routing
 
 
 
